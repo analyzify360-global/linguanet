@@ -135,7 +135,6 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
 .venv
 env/
 venv/
@@ -183,3 +182,4 @@ venv-3.12/
 
 src/modules/translation/audio_output.wav
 src/modules/translation/audio_request.wav
+config.bat
